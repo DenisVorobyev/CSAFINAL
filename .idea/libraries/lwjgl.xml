@@ -1,0 +1,193 @@
+<component name="libraryTable">
+  <library name="lwjgl">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-assimp" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-bgfx" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-cuda" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-egl" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-fmod" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-freetype" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-glfw" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-harfbuzz" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-hwloc" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-jawt" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-jemalloc" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-ktx" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-libdivide" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-llvm" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-lmdb" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-lz4" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-meow" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-meshoptimizer" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-nanovg" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-nfd" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-nuklear" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-odbc" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-openal" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opencl" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opengl" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opengles" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-openvr" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-openxr" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opus" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-ovr" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-par" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-remotery" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-rpmalloc" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-shaderc" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-spvc" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-sse" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-stb" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-tinyexr" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-tinyfd" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-tootle" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-vma" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-vulkan" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-xxhash" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-yoga" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-zstd" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-assimp" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-bgfx" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-cuda" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-egl" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-fmod" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-freetype" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-glfw" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-harfbuzz" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-hwloc" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-jawt" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-jemalloc" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-ktx" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-libdivide" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-llvm" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-lmdb" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-lz4" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-meow" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-meshoptimizer" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-nanovg" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-nfd" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-nuklear" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-odbc" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-openal" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opencl" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opengl" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opengles" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-openvr" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-openxr" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opus" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-ovr" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-par" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-remotery" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-rpmalloc" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-shaderc" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-spvc" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-sse" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-stb" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-tinyexr" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-tinyfd" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-tootle" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-vma" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-vulkan" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-xxhash" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-yoga" />
+      <root url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-zstd" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-assimp" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-bgfx" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-cuda" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-egl" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-fmod" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-freetype" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-glfw" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-harfbuzz" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-hwloc" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-jawt" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-jemalloc" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-ktx" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-libdivide" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-llvm" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-lmdb" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-lz4" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-meow" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-meshoptimizer" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-nanovg" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-nfd" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-nuklear" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-odbc" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-openal" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opencl" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opengl" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opengles" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-openvr" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-openxr" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opus" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-ovr" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-par" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-remotery" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-rpmalloc" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-shaderc" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-spvc" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-sse" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-stb" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-tinyexr" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-tinyfd" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-tootle" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-vma" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-vulkan" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-xxhash" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-yoga" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-zstd" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-assimp" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-bgfx" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-cuda" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-egl" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-fmod" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-freetype" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-glfw" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-harfbuzz" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-hwloc" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-jawt" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-jemalloc" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-ktx" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-libdivide" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-llvm" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-lmdb" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-lz4" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-meow" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-meshoptimizer" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-nanovg" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-nfd" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-nuklear" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-odbc" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-openal" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opencl" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opengl" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opengles" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-openvr" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-openxr" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-opus" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-ovr" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-par" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-remotery" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-rpmalloc" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-shaderc" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-spvc" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-sse" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-stb" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-tinyexr" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-tinyfd" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-tootle" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-vma" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-vulkan" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-xxhash" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-yoga" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/lwjgl/lwjgl-zstd" recursive="false" type="SOURCES" />
+  </library>
+</component>
