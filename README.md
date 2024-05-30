@@ -1,3 +1,5 @@
+USE WSAD FOR MOVEMENT AND ARROWS FOR CAMERA
+
 used this guide for the early development, up to using matrices for transformation of graphics:https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/
 GameObject was created by me, along with the framework of renderscene.
 Camera was created by me, i understand that getting the world matrix with view matrix already added is kind of silly but it works!
